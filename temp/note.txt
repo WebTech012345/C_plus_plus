@@ -1,0 +1,18 @@
+CONCEPTS OF ORIENTED PROGRAMMING :
+
+-> Basic concepts of object oriented programming are:
+
+i). Objects.
+ii). Class.
+iii). Data encapsulation.
+iv). Data abstraction.
+v). Inheritance.
+vi). Polyorphism.
+vii). Dynamic binding.
+viii). Message passing.
+
+1). OBJECTS :-
+
+
+
+

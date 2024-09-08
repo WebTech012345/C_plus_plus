@@ -1,0 +1,80 @@
+low level and high level languages:-
+->low level languages are closer to the hardware
+->high level languages are closer to the human language
+
+1) variables:-
+-> variables are a containers which are used to store the data 
+
+-> variables are a containers which store the data according to the data types.
+
+*for example in this case:- i had a 2 containers and they bottle and in other case box and i had water and shoes and i put water in the bottle and shoes in the box. so in this case the bottle is the variable and water is the data and the box is the variable and shoes is the data and we should store data according to the data types.
+
+
+# data types are :-
+-> int
+-> float
+-> string
+-> boolean 
+-> complex
+
+# variables are declared by using the keywords like:-
+-> int
+-> float
+-> string
+-> boolean 
+-> complex
+-> var
+
+* for  example :-
+-> int = int stores integer values
+
+{
+    integer values means 1
+2,3,4,5,6,7,8,9,0,-1,-2,-3,-4,-5,-6,-7,-8,-9,-10
+}
+
+-> float = float stores floating point values
+{
+    floating point values means 1.1,2.2,3.3,4.4,5.5,6.6,7.7,8.8,9.9,0.0,-1.1,-2.2,-3.3,-4.4,-5.5,-6.6,-7.7,-8.8,-9.9,-10.0    
+}
+-> string = string stores string values
+{
+    string values means "hello","world","my","name","is","sahil"
+}
+-> boolean = boolean stores boolean values
+{
+    boolean values means True and False
+}
+-> complex = complex stores complex values
+{
+    complex values means 1+2j,2+3j,3+4j,4+5j,5+6j,6+7j,7+8j,8+9j,9+10j,0+0j,-1+-2j,-2+-3j,-3+-4j,-4+-5j,-5+-6j,-6+-7j,-7+-8j,-8+-9j,-9+-10j
+}
+-> var = var stores any type of values
+{
+
+ var can store any type of values
+}
+
+
+2)comments:-
+->comments are used to explain the code and they are not executed by the compiler
+
+->comments are used to share the knowledge with others or share the information with yourslef
+
+they are 2 types of comments:-
+-> single line comments
+-> multi line comments
+
+* for example:-
+-> single line comments are used to comment a single line of code
+{
+    // this is a single line comment
+
+}
+-> multi line comments are used to comment multiple lines of code
+{
+
+  /* this
+   is a 
+   multi line comment */
+}  

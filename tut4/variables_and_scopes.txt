@@ -1,0 +1,156 @@
+variable scope & data types:-
+
+
+VARIABLES IN C++:-
+
+-> A variable is contsiner to hold data.
+
+-> Variable can be of various types. Primarily we have these variable types in C++ :
+1) int 
+2) float
+3) char
+4) double
+5) boolen
+
+-> difference between float and double is that if you want to store big numbers after the decemal point then you should use double instead of float.
+
+* for example:-
+-> float sum = 34.34; 
+-> double sum = 34.34233;
+
+
+-> char is used to store single character.
+
+-> boolen is used to store true or false.
+
+-> int sum = 34; means sum is an integer variable which holds value 34 in memory
+
+
+
+
+
+
+SYNTAX FOR DECLARING VARIABLES IN C++ :-
+
+-> datatype variable_name = value;
+
+* for example {
+    int a = 4;
+    float b = 34.34;
+    char c = 'a';
+    boolen d = true;
+}
+
+-> Based on scope, variables can be of two types:
+1). Local variable
+2). Global variable
+
+-> Local variable is declared inside a function and can be used only inside that function.
+
+-> Global variable is declared outside a function and can be used anywhere in the program.
+
+
+VARIABLE SCOPE:-
+
+-> Scope of a variable is the region in code where the existence of the variable is valid.
+
+-> Based on scope we have local and global variables in c++
+
+-> Local Variables : Local variables are declared inside the braces of any function and can be accessed only from there.
+
+-> Global Variables : Global variables are declared outside any function and can be accessed from anywhere.
+
+-> can global and local variables have same name in c++ ?  : yes, they can have same name in c++. But it is not a good practice to do so.
+
+C++ DATATYPES :-
+
+-> Data types define the type of data a variable can hold, for example an integer variable can hold integer data, a character type variable can hold character data etc.
+
+-> Data type in C++ are categorized in three groups :
+1). Built-in
+2). User-defined
+3). Derived
+
+-> Built-in data types are the data types that are predefined in C++, such as int, float, double, char, bool etc.
+
+-> User-defined data types are the data types that are defined by the user, such as struct, union, enum etc.
+
+
+
+-> Derived data types are the data types that are derived from built-in data types, such as array, pointer, function etc.
+
+
+
+#  use \n for new line in the code
+
+
+# char c = 'ab'; (don't use more than one character in char variable)
+
+
+# a variable which is created in function are called as local variable and a variable which is created outside the function are called as global variable.
+
+
+# local variable takes first priority over global variable.
+
+for example :- 
+
+int a = 10; // global variable
+int main() {
+    int a = 20; // local variable
+    cout << a << endl; // this will print the value of local variable
+    return 0;
+}
+
+
+# in this boolen variable we can use only true or false if it is true then it will print 1 and if it is false then it will print 0
+
+
+
+RULES TO DECLARE VARIABLES IN C++ :-
+
+-> Variable names in C++ can range from 1 to 255 characters.
+
+-> All variable names must begin with a letter of the alphabet or an underscore ( _ ).
+
+-> After the first inital letter, variable names can also contain letters and numbers.
+
+-> Variable names are case sensitive.
+
+-> No spaces or special characters are allowed in variable names.
+
+-> You cannot use a C++ Keyword (a reserved Keyword) as a variable name.
+
+Keyword in C++ are :-
+
+-> auto
+-> break
+-> case
+-> char
+-> const
+-> continue
+-> default
+-> do
+-> double
+-> else
+-> enum
+-> extern
+-> float
+-> for
+-> goto
+-> if
+-> int
+-> long
+-> register
+-> return
+-> short
+-> signed
+-> sizeof
+-> static
+-> struct
+-> switch
+-> typedef
+-> union
+-> unsigned
+-> void
+-> volatile
+-> while

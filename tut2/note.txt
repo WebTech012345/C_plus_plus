@@ -1,0 +1,37 @@
+recap:-
+-> c++ is made by bjarne stroustrup in 1979 as an extension of the c programming language
+
+->by using c++ we can create a fast programs , we have more control over the system resorces and memory management
+
+->so it gives high performance 
+
+->c++ major updates
+
+2011-2011 -> c++11
+2014 -> c++14
+2017 -> c++17
+2020 -> c++20
+
+
+#include<iostream>(iostream nam ki  ak file already mojud hai us masa jo jo important file es program ma istamal thayar karlo is called header file)(the use of iostream is to print the output in the console)
+#include<conio.h>(it is used to clear the screen)
+#include<cmath>(it is used to perform mathematical operations)
+#include<cstdlib>(it is used to perform random operations)
+#include<cstring>(it is used to perform string operations)
+#include<ctime>(it is used to perform time operations)
+#include<fstream>(it is used to perform file operations)
+#include<sstream>(it is used to perform string stream operations)
+#include<typeinfo>(it is used to perform type information operations)
+#include<cstdio>(it is used to perform c standard library operations)
+->iostream is a header file which is used to perform input and output operations
+
+using namespace std; [std is a namespace which is used to perform standard operations]
+->namespace is a collection of functions , variables , classes , objects , etc. which are used to perform standard operations
+
+int main()[int is intiger data type , main is a function which is used to start the program , () is used to pass the arguments to the function , {} is used to define the body of the function][kabibi program start hota hai toh main function ka body execute hota hai ()ka matalbhai a function hai {} ka matalbhai a function ka body hai es ma o mari function hais  in function we can write our instuctions]
+{
+    cout<<"hello world"<<endl;[cout is a function which is used to print the output in the console , "hello world" is a string which is used to print the output in the console , endl is a function which is used to print the output in the next line]
+    getch();[getch is a function which is used to clear the screen]
+    return 0;[return is a function which is used to return the value from the function , 0 is a intiger value which is used to return the value from the function]
+    return 0;
+}

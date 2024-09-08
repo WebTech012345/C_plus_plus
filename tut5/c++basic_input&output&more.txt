@@ -1,0 +1,92 @@
+BASIC INPUT/OUTPUT IN C++
+
+-> C++ comes with libraries which helps us in performing input/output. in C++ seqence of bytes corresponding to input and output are commonly known as streams.
+
+-> Input Stream : Direction of flow of bytes takes  place from input device (for example keybord ) to the main memory.
+
+-> Output Stream : Direction of flow of bytes takes place from main memory to output device (for example display).
+
+
+LIST OF RESERVED KEYWORDS IN C++ :-
+
+-> This is a list of keywords reserved in C++
+
+1). auto
+2). break
+3). case
+4). char
+5). const
+6). continue
+7). default
+8). do
+9). double
+10). else
+11). enum
+12). extern
+13). float
+14). for
+15). goto
+16). if
+17). int
+18). long
+19). register
+20). return
+21). short
+22). signed
+23). sizeof
+24). static
+25). struct
+26). switch
+27). typedef
+28). union
+29). unsigned
+30). void
+31). volatile
+32). while
+33). bool
+34). catch
+35). class
+36). const_cast
+37). delete
+38). dynamic_cast
+39). explicit
+40). export
+41). false
+42). friend
+43). inline
+44). mutable
+45). namespace
+46). new
+47). operator
+48). private
+49). protected
+50). public
+51). try
+52). template
+53). this
+54). throw
+55). true
+56). typeid
+57). typename
+58). using
+59). virtual
+60)  wchar_t
+
+
+
+
+
+-> Since they are used by the language itself, these keywords are not available for re-definition or overloading.
+
+-> In short, you cannot create a variable with these names.
+
+
+
+
+
+DATA TYPE SIZE AND RANGE IN C++ :-
+
+DATA_TYPE_SIZE_AND_RANGE_IN_C++.png 
+
+
+
